@@ -1,0 +1,10 @@
+var msg = "Hello world";
+console.log(msg);
+var age = 10;
+var _name = "foo";
+var wage = 100.0;
+var active = true;
+console.log("age = ", age);
+console.log("_name = ", _name);
+console.log("wage = ", wage);
+console.log("active = ", active);
