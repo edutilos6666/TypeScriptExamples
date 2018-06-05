@@ -1,4 +1,4 @@
-**typescript compiler name:**tsc <br/>
+**typescript compiler name** : tsc <br/>
 tsc file1.tsc //that will create file1.js node file1.js <br/>
 
 //install via node/npm sudo npm install -g typescript <br/>
